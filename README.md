@@ -9,7 +9,7 @@ The __Custom__ widget allows you to create a nice and attractive circular countd
 ### Usage
 -------
 Download this ZIP file, then extract it on your wakanda workspace.
-Don't forget to rename the dizipped file as: "CountDownCircle". 
+Don't forget to rename the dezipped file as: "CountDownCircle". 
 
 
 ### Properties
