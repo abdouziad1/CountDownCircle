@@ -1,12 +1,12 @@
-## Custom Widget for [Wakanda](http://wakanda.org)
+### Custom Widget for [Wakanda](http://wakanda.org)
 -------
 The __Custom__ widget allows you to create a nice and attractive circular countdown widget
 
-### Circular Count Down 
+## Circular Count Down 
 -------
 ![CountDown](https://raw.github.com/abdouziad1/Circular-CountDown-Widget/master/img/countdown.PNG)
 
-### Usage
+## Usage
 -------
 Download this ZIP file, then extract it on your wakanda workspace.
 Don't forget to rename the dezipped file as: "CountDownCircle". 
