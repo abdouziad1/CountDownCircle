@@ -2,7 +2,7 @@
 The __Custom__ widget allows you to...
 
 # Circular Count Down 
-![Circular Count Down](https://www.dropbox.com/s/d7gg2t25q83nxqb/countdown.PNG)
+![CountDown](https://www.dropbox.com/s/d7gg2t25q83nxqb/countdown.PNG)
 
 ### Properties
 This widget has the following properties:
