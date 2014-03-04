@@ -1,0 +1,34 @@
+{
+    "name": "CountDownCircle",
+    "studioName": "CountDownCircle",
+    "category": "Custom Widgets",
+    "iconPath": "/icons/widget.png",
+    "author": "Widget Developer",
+    "contributors": [
+        "Developer 1",
+        "Developer 2"
+    ],
+    "version": "1.0.0",
+    "copyright": "(c) 2014 Widget Developer",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/developer/Widget.git"
+    },
+    "keywords": ["wakanda", "widget"],
+    "engines": {"wakanda": ">= 8"},
+    "license": "MIT",
+    "loadDependencies": [
+        {"id": "Widget_V2"},
+        {"id": "CountDownCircle/css/style.css", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "CountDownCircle/css/icomonn.css", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        
+        {"id": "CountDownCircle/js/jquery.min.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "CountDownCircle/js/jquery.knob.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "CountDownCircle/js/jquery.ccountdown.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "CountDownCircle/js/init.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        
+        {"id": "CountDownCircle/widget.js", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "CountDownCircle/css/widget.css", "version": "1.0.0", "path": "WIDGETS_CUSTOM"},
+        {"id": "CountDownCircle/designer.js", "studioOnly": true, "version": "1.0.0", "path": "WIDGETS_CUSTOM"}
+    ]
+}
